@@ -1,0 +1,17 @@
+/*
+ Theme Name:   Make
+ Theme URI:    https://wordpress.org/themes/make
+ Description:  Make theme
+ Author:       thethemefoundry
+ Author URI:   https://thethemefoundry.com/
+ Template:     make
+ Version:      1.0.10
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  make
+*/
+
+@import url("../make/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
